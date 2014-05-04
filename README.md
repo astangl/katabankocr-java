@@ -1,3 +1,4 @@
+````
 This Kata was presented at XP2006 by EmmanuelGaillot and ChristopheThibaut. 
 
 Problem Description 
@@ -203,4 +204,4 @@ use case 4
   | _||_||_||_|  |  |  | _|
                            
 => 490867715 
-
+````
